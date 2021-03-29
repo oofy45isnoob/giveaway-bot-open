@@ -10,7 +10,7 @@ module.exports = {
 
     embeds: {
         color: "BLUE", //Embed color (in English)
-        footers: "Kurmy template by !Zerio.js#2020" //Embed footer
+        footers: "By XX" //Embed footer
     },
 
     start: {
